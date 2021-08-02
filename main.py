@@ -182,6 +182,6 @@ class Main():
 
 
 
-bot.run('NzI5NDM2MjAyMTc1ODIzOTEz.XwI6Zg.3xRLFySLJzAbIsXvRkXIdGLTFzI')
-         #NzI5NDM2MjAyMTc1ODIzOTEz.XwI6Zg.3xRLFySLJzAbIsXvRkXIdGLTFzI
+bot.run('Place API key here')
+         
 
