@@ -20,7 +20,7 @@ from discord.ext import commands
 from tinydb import where
 
 # _______________________________________________________________________________________________________________________________
-# ('1c3ac85653a4ea41078bd57a8faeb9c62af816d9')
+# 
 
 
 bot = commands.Bot(command_prefix="!")
