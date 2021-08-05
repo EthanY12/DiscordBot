@@ -175,7 +175,7 @@ class Main():
             await ctx.send("Was unable to post screenshot")
 
     @bot.command(name="x".lower())
-    async def test_shit(ctx):
+    async def test_(ctx):
         while True:
             p=pyautogui.position()
             print(p)
